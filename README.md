@@ -15,11 +15,13 @@ o Keep track of daily calorie count using Food and Physical activity data
 o Compare your fitness data with friends
 o Wanted to take health advices from other persons (follow their public daily meal plan / workout schedule)
 o Who like to do some physical activity with friends at a gym / run-track (invite friends)
+
 Features:
 - Measures daily fitness
 - Graphical Statistics
 - Record Daily Food Activity
 - Invite Friends by sharing location
+
 Application Uses:
 Database                  : Firebase
 Login and Authentication  : Firebase, Google, Facebook
@@ -29,6 +31,7 @@ Youtube API               : Google
 Voice to Text Integration : Google
 Step Counter              : In-built Sensor
 Animations                : WasABeef, AppIntro, ProgressView
+
 Functionalities app consists:
 -Navigation Drawer
 -Recycler View
